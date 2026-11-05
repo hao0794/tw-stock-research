@@ -1,0 +1,4 @@
+fugle-marketdata
+yfinance
+pandas
+numpy
