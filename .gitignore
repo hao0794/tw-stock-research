@@ -1,0 +1,10 @@
+.env
+cache/
+cache_mom/
+cache_watch/
+output/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
